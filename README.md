@@ -2,8 +2,4 @@
 
 ![image](https://github.com/karta282950/rayshader3D_taiwanMap/blob/master/img/taiwan.png)
 
-```HTML
-<video width="320" controls>
-    <source src="video/output1.mp4" type="video/mp4">
-</video>
-```
+[![video](https://github.com/karta282950/rayshader3D_taiwanMap/blob/master/img/taiwan.png)](https://github.com/karta282950/rayshader3D_taiwanMap/blob/master/video/output1.mp4)
