@@ -2,10 +2,4 @@
 
 ![image](https://github.com/karta282950/rayshader3D_taiwanMap/blob/master/img/taiwan.png)
 
-[![video](https://github.com/karta282950/rayshader3D_taiwanMap/blob/master/img/taiwan.png)](https://github.com/karta282950/rayshader3D_taiwanMap/blob/master/video/output1.mp4)
-
-```HTML
-<video width="320" controls>
-    <source src="https://github.com/karta282950/rayshader3D_taiwanMap/blob/master/video/output1.mp4" type="video/mp4">
-</video>
-```
+https://user-images.githubusercontent.com/17952772/220430856-2ee76b64-ae93-4b0b-b852-6c7fee1506a8.mp4
