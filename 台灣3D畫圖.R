@@ -14,7 +14,7 @@ tw_population = tw_population[,c(2,3)]
 colnames(tw_population) = c("區域別", "人口數")
 
 ## 繪製台灣地圖
-taiwan_shap2=read_sf("./政府開放資料/TOWN_MOI_1111118.shp")
+taiwan_shap2=read_sf("政府開放資料/TOWN_MOI_1111118.shp")
 taiwan_shap2$區域別 = paste0(taiwan_shap2$COUNTYNAME,taiwan_shap2$TOWNNAME)
 taiwan_shap2 = merge(taiwan_shap2, tw_population, by='區域別', all = TRUE)
 taiwan_shap2 = dplyr::filter(taiwan_shap2, !區域別 %in% c("東沙群島", "南沙群島"))
