@@ -4,3 +4,5 @@
 
 https://user-images.githubusercontent.com/17952772/220430856-2ee76b64-ae93-4b0b-b852-6c7fee1506a8.mp4
 
+# 參考：
+https://towardsdatascience.com/introducing-3d-ggplots-with-rayshader-r-c61e27c6f0e9
